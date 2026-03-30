@@ -23,3 +23,6 @@ Personal development log — notes, findings, and ongoing work.
 - Updated license year
 - Resolved TODO items from previous session
 - Cleaned up old debug logs
+
+## 2026-03-30
+- Consolidated duplicate helper functions
