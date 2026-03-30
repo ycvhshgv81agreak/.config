@@ -18,3 +18,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-23
 - Tidied up project structure
+
+## 2026-03-30
+- Updated license year
+- Resolved TODO items from previous session
+- Cleaned up old debug logs
